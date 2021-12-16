@@ -1,7 +1,6 @@
 **Kurssilla käsitellyt teknologiat:**<br />
 
 Ohjelmistokehys: React Native<br />
-
 Firebase: firebase/app & firebase/database<br />
 Kartta: react-native-maps<br />
 Sijainti: expo-location<br />
