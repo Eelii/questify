@@ -8,6 +8,7 @@ Sijainti: expo-location<br />
 Stack-navigaatio: @react-navigation/stack<br />
 Tab-navigaatio: @react-navigation/bottom-tabs<br />
 
+<br />
 **Kurssilla käsittelemättömät teknologiat:**<br />
 
 Käyttöliittymäelementit: Shoutem UI (@shoutem/ui)<br />
