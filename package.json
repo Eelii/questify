@@ -1,0 +1,46 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.0",
+    "@miblanchard/react-native-slider": "^2.0.2",
+    "@react-native-community/datetimepicker": "^3.5.2",
+    "@react-navigation/bottom-tabs": "^6.0.9",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/stack": "^6.0.11",
+    "@shoutem/ui": "shoutem/ui",
+    "datetimepicker": "^0.1.39",
+    "expo": "~43.0.2",
+    "expo-font": "~10.0.3",
+    "expo-linear-gradient": "~10.0.3",
+    "expo-location": "~13.0.4",
+    "expo-status-bar": "~1.1.0",
+    "firebase": "^9.5.0",
+    "radio-buttons-react-native": "^1.0.4",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-animated-linear-gradient": "^1.2.2",
+    "react-native-color-picker": "^0.6.0",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-linear-gradient": "~2.5.6",
+    "react-native-maps": "0.28.1",
+    "react-native-photo-view": "github:shoutem/react-native-photo-view#0ffa1481f6b6cb8663cb291b7db1d6644440584d",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.8.0",
+    "react-native-svg": "^12.1.1",
+    "react-native-vector-icons": "~6.6.0",
+    "react-native-web": "0.17.1",
+    "react-native-webview": "~11.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
