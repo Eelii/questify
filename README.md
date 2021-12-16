@@ -1,18 +1,18 @@
-**Kurssilla käsitellyt teknologiat:**
+**Kurssilla käsitellyt teknologiat:**<br />
 
-Ohjelmistokehys: React Native
+Ohjelmistokehys: React Native<br />
 
-Firebase: firebase/app & firebase/database
-Kartta: react-native-maps
-Sijainti: expo-location
-Stack-navigaatio: @react-navigation/stack
-Tab-navigaatio: @react-navigation/bottom-tabs
+Firebase: firebase/app & firebase/database<br />
+Kartta: react-native-maps<br />
+Sijainti: expo-location<br />
+Stack-navigaatio: @react-navigation/stack<br />
+Tab-navigaatio: @react-navigation/bottom-tabs<br />
 
-**Kurssilla käsittelemättömät teknologiat:**
+**Kurssilla käsittelemättömät teknologiat:**<br />
 
-Käyttöliittymäelementit: Shoutem UI (@shoutem/ui)
-Liukuvärit: expo-linear-gradient
-Liukusäädin: @miblanchard/react-native-slider
-Datetime picker: @react-native-community/datetimepicker
-Radionappulat: radio-buttons-react-native
-Motivointilausahdus-rajapinta: Type.fit (https://type.fit/api/quotes)
+Käyttöliittymäelementit: Shoutem UI (@shoutem/ui)<br />
+Liukuvärit: expo-linear-gradient<br />
+Liukusäädin: @miblanchard/react-native-slider<br />
+Datetime picker: @react-native-community/datetimepicker<br />
+Radionappulat: radio-buttons-react-native<br />
+Motivointilausahdus-rajapinta: Type.fit (https://type.fit/api/quotes)<br />
