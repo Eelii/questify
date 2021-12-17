@@ -1,4 +1,4 @@
-#Käytetyt teknologiat
+# Käytetyt teknologiat
 
 **Kurssilla käsitellyt teknologiat:**<br />
 
