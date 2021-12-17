@@ -1,3 +1,5 @@
+#Käytetyt teknologiat
+
 **Kurssilla käsitellyt teknologiat:**<br />
 
 Ohjelmistokehys: React Native<br />
