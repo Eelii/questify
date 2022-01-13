@@ -1,5 +1,7 @@
 # Questify
 
+Questify on Android-sovellus, jonka avulla käyttäjät voivat merkitä kartalle tehtäviä toisten käyttäjien suoritettavaksi. Sovellus sisältää erinäisiä käyttäjienhallintaominaisuuksia, jotka perustuvat ulkoisen Firebase-tietokannan käytölle. Sovelluksen käyttöliittymän ulkoasuun ei ole kiinnitetty yhtään mitään huomiota, vaan pääpaino on ollut sovelluksen toiminnallisuuksissa.  
+
 <img src="https://github.com/Eelii/questify/blob/master/screenshots/log_in.png" width=20% height=20%> <img src="https://github.com/Eelii/questify/blob/master/screenshots/register.png" width=20% height=20%> <img src="https://github.com/Eelii/questify/blob/master/screenshots/map.png" width=20% height=20%> <img src="https://github.com/Eelii/questify/blob/master/screenshots/add_quest.png" width=20% height=20%>
 
 
