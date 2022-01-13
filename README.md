@@ -1,6 +1,7 @@
 # Questify
 
 <img src="https://github.com/Eelii/questify/blob/master/screenshots/log_in.png" width=20% height=20%>
+<img src="https://github.com/Eelii/questify/blob/master/screenshots/register.png" width=20% height=20%>
 
 ## Käytetyt teknologiat
 
